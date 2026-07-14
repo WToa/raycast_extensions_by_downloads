@@ -4,17 +4,17 @@ This is an auto-generated list of popular Raycast extensions sorted by number of
 
 You can view an updated version at [https://bulletin.kakiyaga.com/sources/Raycast](https://bulletin.kakiyaga.com/sources/Raycast)
 
-Last updated: 2026-07-06 19:00:03 UTC
+Last updated: 2026-07-14 19:00:04 UTC
 
 | Downloads | Extension | Description |
 |-----------|-----------|-------------|
-| 633,565 | [Kill Process](https://www.raycast.com/rolandleth/kill-process) | Terminate processes sorted by CPU or memory usage | 
-| 480,500 | [Color Picker](https://www.raycast.com/thomas/color-picker) | Pick and organize colors, everywhere on your Mac | 
-| 468,776 | [Google Chrome](https://www.raycast.com/Codely/google-chrome) | Search open tabs, bookmarks and history in Google Chrome. | 
-| 420,840 | [Google Translate](https://www.raycast.com/gebeto/translate) | Simple translation using Google Translate | 
-| 412,974 | [Spotify Player](https://www.raycast.com/mattisssa/spotify-player) | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. | 
-| 342,349 | [Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code) | Control VS Code and compatible editors directly from Raycast | 
-| 323,334 | [Linear](https://www.raycast.com/linear/linear) | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | 
-| 274,230 | [Slack](https://www.raycast.com/mommertf/slack) | Search for chats, see unread messages, snooze notifications, and set your presence status. | 
-| 239,324 | [Notion](https://www.raycast.com/notion/notion) | The fastest way to search, create and update Notion pages. | 
-| 201,450 | [1Password](https://www.raycast.com/khasbilegt/1password) | Search, open or edit your 1Password passwords from Raycast | 
+| 640,185 | [Kill Process](https://www.raycast.com/rolandleth/kill-process) | Terminate processes sorted by CPU or memory usage | 
+| 485,916 | [Color Picker](https://www.raycast.com/thomas/color-picker) | Pick and organize colors, everywhere on your Mac | 
+| 474,422 | [Google Chrome](https://www.raycast.com/Codely/google-chrome) | Search open tabs, bookmarks and history in Google Chrome. | 
+| 424,235 | [Google Translate](https://www.raycast.com/gebeto/translate) | Simple translation using Google Translate | 
+| 416,251 | [Spotify Player](https://www.raycast.com/mattisssa/spotify-player) | Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. | 
+| 345,328 | [Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code) | Control VS Code and compatible editors directly from Raycast | 
+| 327,506 | [Linear](https://www.raycast.com/linear/linear) | Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. | 
+| 276,845 | [Slack](https://www.raycast.com/mommertf/slack) | Search for chats, see unread messages, snooze notifications, and set your presence status. | 
+| 240,833 | [Notion](https://www.raycast.com/notion/notion) | The fastest way to search, create and update Notion pages. | 
+| 203,035 | [1Password](https://www.raycast.com/khasbilegt/1password) | Search, open or edit your 1Password passwords from Raycast | 
